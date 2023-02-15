@@ -1,4 +1,4 @@
-h3{
+h1{
     font-family: calibri;
 }
 
@@ -6,11 +6,15 @@ li{
     font-family: calibri;
 }
 
-h4{
+h2{
     font-family: calibri;
 }
 
 img{
     width:200px;
     height:200px;
+}
+
+body{
+    padding-left:10px;
 }
